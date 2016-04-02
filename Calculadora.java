@@ -433,7 +433,7 @@ public class Calculadora extends javax.swing.JFrame {
             Object result = engine.eval(operacion); 
             String resultado = result.toString();
             this.panel.setText(resultado);
-            operacion="";
+            operacion=resultado;
         } 
         catch(ScriptException se) { 
             this.panel.setText("Sintax Error");
