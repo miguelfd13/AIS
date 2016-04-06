@@ -39,3 +39,60 @@ Esta plataforma utiliza una gestión de repositorios distribuidos, ya que las ve
 
 CONFLICTO DE VERSIONES
 
+
+Parte 100000000000000000
+
+NUEVOS REQUISITOS
+	FUNCIONALES
+RF01 - Añadir nueva funcionalidad para poder disponer de una jerarquía de operaciones
+RF02 - Control de errores: los errores se van controlando a la hora de escribir, no se permite introducir caracteres no válidos ni la escritura directa por teclado. A la hora de introducir caracteres numéricos y operadores, si se introducen de manera errónea, la calculadora muestra un mensaje de error.
+	NO FUNCIONALES
+RNF01 - Añadir una interfaz gráfica que tenga la apariencia de una calculadora:
+a.	La colocación de los botones será similar a la de la calculadora de Windows 10.
+RNF02 - Añadir un display donde se muestre la operación en proceso, el resultado y los mensajes de error:
+a.	Colocación: se ubicará encima de los botones de la calculadora
+Parte 100000000000000000
+
+NUEVOS REQUISITOS
+	FUNCIONALES
+RF01 - Añadir nueva funcionalidad para poder disponer de una jerarquía de operaciones
+RF02 - Control de errores: los errores se van controlando a la hora de escribir, no se permite introducir caracteres no válidos ni la escritura directa por teclado. A la hora de introducir caracteres numéricos y operadores, si se introducen de manera errónea, la calculadora muestra un mensaje de error.
+	NO FUNCIONALES
+RNF01 - Añadir una interfaz gráfica que tenga la apariencia de una calculadora:
+a.	La colocación de los botones será similar a la de la calculadora de Windows 10.
+RNF02 - Añadir un display donde se muestre la operación en proceso, el resultado y los mensajes de error:
+a.	Colocación: se ubicará encima de los botones de la calculadora
+Parte 100000000000000000
+
+NUEVOS REQUISITOS
+	FUNCIONALES
+RF01 - Añadir nueva funcionalidad para poder disponer de una jerarquía de operaciones
+RF02 - Control de errores: los errores se van controlando a la hora de escribir, no se permite introducir caracteres no válidos ni la escritura directa por teclado. A la hora de introducir caracteres numéricos y operadores, si se introducen de manera errónea, la calculadora muestra un mensaje de error.
+	NO FUNCIONALES
+RNF01 - Añadir una interfaz gráfica que tenga la apariencia de una calculadora:
+a.	La colocación de los botones será similar a la de la calculadora de Windows 10.
+RNF02 - Añadir un display donde se muestre la operación en proceso, el resultado y los mensajes de error:
+a.	Colocación: se ubicará encima de los botones de la calculadora
+Parte 100000000000000000
+
+NUEVOS REQUISITOS
+	FUNCIONALES
+RF01 - Añadir nueva funcionalidad para poder disponer de una jerarquía de operaciones
+RF02 - Control de errores: los errores se van controlando a la hora de escribir, no se permite introducir caracteres no válidos ni la escritura directa por teclado. A la hora de introducir caracteres numéricos y operadores, si se introducen de manera errónea, la calculadora muestra un mensaje de error.
+	NO FUNCIONALES
+RNF01 - Añadir una interfaz gráfica que tenga la apariencia de una calculadora:
+a.	La colocación de los botones será similar a la de la calculadora de Windows 10.
+RNF02 - Añadir un display donde se muestre la operación en proceso, el resultado y los mensajes de error:
+a.	Colocación: se ubicará encima de los botones de la calculadora
+Parte 100000000000000000
+
+NUEVOS REQUISITOS
+	FUNCIONALES
+RF01 - Añadir nueva funcionalidad para poder disponer de una jerarquía de operaciones
+RF02 - Control de errores: los errores se van controlando a la hora de escribir, no se permite introducir caracteres no válidos ni la escritura directa por teclado. A la hora de introducir caracteres numéricos y operadores, si se introducen de manera errónea, la calculadora muestra un mensaje de error.
+	NO FUNCIONALES
+RNF01 - Añadir una interfaz gráfica que tenga la apariencia de una calculadora:
+a.	La colocación de los botones será similar a la de la calculadora de Windows 10.
+RNF02 - Añadir un display donde se muestre la operación en proceso, el resultado y los mensajes de error:
+a.	Colocación: se ubicará encima de los botones de la calculadora
+
