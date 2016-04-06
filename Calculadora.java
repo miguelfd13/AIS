@@ -173,7 +173,7 @@ public class Calculadora extends javax.swing.JFrame {
         cuatro_boton.setText("4");
         cuatro_boton.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
-                cuatro_botonActionPerformed(evt);
+                
             }
         });
 
@@ -226,9 +226,7 @@ public class Calculadora extends javax.swing.JFrame {
             }
         });
 
-        jLabel1.setText("Calculadora");
-
-        punto_boton.setText(".");
+        jLabel1.setText("xt(".");
         punto_boton.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 punto_botonActionPerformed(evt);
@@ -256,8 +254,7 @@ public class Calculadora extends javax.swing.JFrame {
             }
         });
 
-        panel.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
+        panel.addActionListener(new jaed(java.awt.event.ActionEvent evt) {
                 panelActionPerformed(evt);
             }
         });
