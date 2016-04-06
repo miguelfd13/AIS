@@ -1,0 +1,41 @@
+Parte 1
+
+NUEVOS REQUISITOS
+	FUNCIONALES
+RF01 - Añadir nueva funcionalidad para poder disponer de una jerarquía de operaciones
+RF02 - Control de errores: los errores se van controlando a la hora de escribir, no se permite introducir caracteres no válidos ni la escritura directa por teclado. A la hora de introducir caracteres numéricos y operadores, si se introducen de manera errónea, la calculadora muestra un mensaje de error.
+	NO FUNCIONALES
+RNF01 - Añadir una interfaz gráfica que tenga la apariencia de una calculadora:
+a.	La colocación de los botones será similar a la de la calculadora de Windows 10.
+RNF02 - Añadir un display donde se muestre la operación en proceso, el resultado y los mensajes de error:
+a.	Colocación: se ubicará encima de los botones de la calculadora
+RNF03 – El lenguaje utilizado para la codificación de la calculadora será Java.
+
+PLANIFICACIÓN DE TAREAS
+-	Tarea 0: realizar la documentación de todas las etapas del proceso. Esta tarea está asignada a todas las personas implicadas en el proyecto.
+-	Tarea 1: captura de requisitos. Para esta tarea será necesaria una reunión con el cliente. Esta tarea la llevara a cabo Cristina.
+-	Tarea 2: generación de un prototipo de la interfaz gráfica y mostrárselo al cliente. Esta tarea la llevara a cabo Pedro.
+-	Tarea 3: análisis del código proporcionado. Esta tarea la llevara a cabo Luis.
+-	Tarea 4: diseño de las clases. Esta tarea la llevara a cabo Luis.
+-	Tarea 5: modificación del código proporcionado para incluir los nuevos requisitos: 
+o	Precedencia de operadores empleando paréntesis
+o	Incluir la muestra de mensajes de error
+Esta tarea la llevará a cabo Miguel.
+-	Tarea 6: pruebas del código modificado y corrección de errores. Esta tarea la llevarán a cabo Cristina y Miguel.
+-	Tarea 7: implementación de la interfaz gráfica: 
+o	Botones de la calculadora
+o	Display por el que se muestre el resultado
+Esta tarea la realizara Ester.
+-	Tarea 8: prueba de la interfaz gráfica y corrección de errores. Esta tarea la llevarán a cabo Ester y Pedro.
+-	Tarea 9: Mostrar al cliente el producto final. Esta tarea la realizará Luis.
+Diagrama PERT
+EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
+HAY QUE PONER EL DIAGRAMA!!!! 
+Parte 2
+NOMBRE DE LA HERRAMIENTA DE CONTROL DE VERSIONES UTILIZADA
+Utilizamos la herramienta GitHub.
+GitHub sigue una estrategia de versionado de branching. El autor de la primera versión o master, sube su versión y todos pueden modificarla. Cuando el resto de autores suben sus respectivas versiones, sólo se vuelven oficiales cuando el master las aprueba, pudiendo volver a versiones anteriores si resultan poco estables. En conclusión, cada autor sube su propia versión en una rama del proyecto y el autor principal aprueba las versiones que mejor implementadas están.
+Esta plataforma utiliza una gestión de repositorios distribuidos, ya que las versiones se encuentran varios servidores de manera “distribuida”.
+
+CONFLICTO DE VERSIONES
+
