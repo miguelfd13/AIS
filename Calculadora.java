@@ -471,7 +471,8 @@ public class Calculadora extends javax.swing.JFrame {
     }                                       
 
     private void CE_botonActionPerformed(java.awt.event.ActionEvent evt) {                                         
-        
+        this.operacion="";
+        this.panel.setText("0");
     }                                        
 
     private void panelActionPerformed(java.awt.event.ActionEvent evt) {                                      
